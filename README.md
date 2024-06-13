@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">A frontend developer from India</p>
+<p align="left"></p>
 
 ###
 
